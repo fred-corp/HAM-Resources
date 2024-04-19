@@ -1,5 +1,7 @@
 # HAM Resources
 
+Some resources I've found useful for mods, hacks, upgrades etc. for my HAM shack.
+
 ## Acknowledgements
 
 Made with ❤️, lots of ☕️, and lack of 🛌  
